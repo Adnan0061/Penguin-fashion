@@ -1,0 +1,18 @@
+.heading{    
+    font-family: 'Bebas Neue', cursive;    
+    font-size: 80px;
+    font-weight: 500;
+}
+.speacial-color{
+    color: #FA804C;
+}
+
+.rounded-5{
+    border-radius: 15px;
+}
+
+.img-box{
+    background-color: #F1F1F1;
+    margin: 15px;
+    border-radius: 15px;    
+}
